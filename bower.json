@@ -1,0 +1,20 @@
+{
+  "name": "nginx-pagespeed",
+  "version": "0.0.0",
+  "authors": [
+    "Kevin Warrington <kevin.warrington@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.2"
+  }
+}
